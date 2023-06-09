@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**robertbonfada/robertbonfada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Robert Bonfada</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Passionate full-stack developer dedicated to creating innovative solutions to real-life problems, constantly studying new technologies and refining my skills.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertbonfada" alt="robertbonfada" /> </p>
+
+- 📫 How to reach me **bonfadarobert@gmail.com**
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://instagram.com/robertbonfada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="robertbonfada" height="30" width="40" /></a>
+</p>
